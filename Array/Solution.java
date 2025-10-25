@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-
+        System.out.println("Array program");
         // Use a StringBuilder to efficiently build the result string
         StringBuilder result = new StringBuilder();
 
