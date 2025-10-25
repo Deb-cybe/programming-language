@@ -6,6 +6,7 @@ int main()
     int arr[50], i, n;
 
     // Ask the user for the number of elements
+    cout<<"Bubble Sort Program ";
     cout << "Enter number of digits to enter: ";
     cin >> n;
 
