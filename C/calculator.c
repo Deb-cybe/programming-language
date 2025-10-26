@@ -62,7 +62,7 @@ int main(){
                 printf("Exiting program...\n");
                 exit(0);
             default:
-                printf("nashe me ho kya...sahi option choose karo!!!\n");     
+                printf("Choose a number from the options!!!\n");     
         }
     }
     return 0;
