@@ -3,7 +3,9 @@
  * @param {number[]} arr - The array to search.
  * @returns {number} The minimum value.
  */
+
 function findMin(arr) {
+    console.log("find min");
     if (!Array.isArray(arr) || arr.length === 0) {
         throw new Error('Input must be a non-empty array');
     }
